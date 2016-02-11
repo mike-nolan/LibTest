@@ -148,3 +148,6 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+
+### Distribution Properties ###
+libdist.properties
